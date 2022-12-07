@@ -15,4 +15,4 @@ const ingredientsList = ingredients.forEach(ingredient => {
   ingredientsArr.append(items)
 });
 
-console.log(ingredientsArr);
+//console.log(ingredientsArr);
